@@ -82,7 +82,7 @@ function App() {
         <div className="error-container">
           <p className="error">{error}</p>
           <p className="error-link">
-            Puedes ver el código fuente en: <a href="https://github.com/tu-usuario/paradero-app" target="_blank" rel="noopener noreferrer">https://github.com/tu-usuario/paradero-app</a>
+            Puedes ver el código fuente en: <a href="https://github.com/tomassolarr/paradero-app" target="_blank" rel="noopener noreferrer">https://github.com/tomassolarr/paradero-app</a>
           </p>
         </div>
       )}
